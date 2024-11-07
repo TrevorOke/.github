@@ -1,4 +1,4 @@
-# FirstLast Consulting
+# Trevor Oke Consulting
 
 This repository contains technical projects and tools related to my consulting services. I specialize in helping early-stage software companies optimize their AWS infrastructure and establish effective DevOps practices.
 
@@ -23,14 +23,3 @@ Here is an overview of the core services I provide:
 - **Reducing Technical Debt**: Identifying and addressing inefficient or outdated practices, reducing costs and complexity over time.
   
 
-
----
-
-## Getting Started
-
-To get started with any of the tools or solutions in this repository, follow the steps below:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/FirstLast/[project-name].git
